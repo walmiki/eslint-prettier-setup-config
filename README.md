@@ -1,3 +1,4 @@
+## Forked from [mryechkin](https://github.com/mryechkin/eslint-config-acme)
 # ESLint + Prettier Config for React (Next.js)
 
 `eslint-prettier-react-config`
