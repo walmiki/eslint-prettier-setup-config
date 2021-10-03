@@ -1,8 +1,14 @@
 {
-		"name": "@sumit_walmiki/eslint-prettier-setup-config",
+		"name": "eslint-prettier-react-config",
 		"version": "1.0.0",
 		"description": "ESLint + Prettier config for React",
 		"main": "index.js",
+		"files":[
+			"LICENSE",
+			"README.md",
+			"index.js",
+			"lib"
+		],
 		"author": "Sumit Walmiki <sumit.walmiki@gmail.com>",
 		"license": "MIT",
 		"peerDependencies": {
