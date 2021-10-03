@@ -1,9 +1,10 @@
 ## Forked from [mryechkin](https://github.com/mryechkin/eslint-config-acme)
 # ESLint + Prettier Config for React (Next.js)
 
-`eslint-prettier-react-config`
+`eslint-config-react-prettier-eslint`
 
 > Shareable config for [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/), aimed primarily to be used in [Next.js](https://nextjs.org) React projects.
+
 
 ## Overview
 
@@ -16,7 +17,7 @@ The goal of this configuration is to get code linting and formatting up and runn
 To install the package, run:
 
 ```shell
-$ npm install -D eslint-prettier-react-config
+$ npm install -D eslint-config-react-prettier-eslint
 ```
 
 This will install the shared config, as well as its peer dependencies:
@@ -34,12 +35,12 @@ This will install the shared config, as well as its peer dependencies:
 **NOTE:** if you are on an older version of `npm` (`<7.0.0`), you will need to install these manually:
 
 ```shell
-$ npx install-peerdeps -D eslint-prettier-react-config
+$ npx install-peerdeps -D eslint-config-react-prettier-eslint
 ```
 
 ## Usage
 
-To start using this shared config, add `eslint-prettier-react-config` (or just `acme`) to either your `package.json`:
+To start using this shared config, add `eslint-config-react-prettier-eslint` (or just `acme`) to either your `package.json`:
 
 ```jsx
 // package.json
