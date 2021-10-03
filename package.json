@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-react-prettier-eslint",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "ESLint + Prettier config for React",
 	"main": "index.js",
 	"files": [
