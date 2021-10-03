@@ -3,10 +3,36 @@
   "version": "1.0.0",
   "description": "ESLint + Prettier config for React",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Sumit Walmiki <sumit.walmiki@gmail.com>",
+  "license": "MIT",
+	"peerDependencies": {
+	"eslint": "^7.29.0",
+	"eslint-config-airbnb": "^18.2.1",
+	"eslint-config-prettier": "^8.3.0",
+	"eslint-plugin-import": "^2.23.4",
+	"eslint-plugin-jsx-a11y": "^6.4.1",
+	"eslint-plugin-prettier": "^3.4.0",
+	"eslint-plugin-react": "^7.24.0",
+	"eslint-plugin-react-hooks": "^4.2.0",
+	"eslint-plugin-simple-import-sort": "^7.0.0",
+	"prettier": "^2.3.1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"keywords": [
+	"config",
+	"ecmascript",
+	"eslint",
+	"eslintconfig",
+	"javascript",
+	"lint",
+	"react",
+	"prettier"
+  ],
+	 "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walmiki/eslint-prettier-setup-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/walmiki/eslint-prettier-setup-config/issues"
+  },
+  "homepage": "https://github.com/walmiki/eslint-prettier-setup-config#readme"
 }
