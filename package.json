@@ -1,5 +1,5 @@
 {
-	"name": "eslint-prettier-react-config",
+	"name": "eslint-config-react-prettier-eslint",
 	"version": "1.0.4",
 	"description": "ESLint + Prettier config for React",
 	"main": "index.js",
